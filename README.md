@@ -1,1 +1,1 @@
-# WebD-CA2
+This portfolio is fully built using just HTML and CSS. I designed it with a clean layout, proper structure, and smooth styling while keeping it lightweight and responsive. It highlights my ability to create visually appealing web pages without using JavaScript or external frameworks.
